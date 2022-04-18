@@ -1,2 +1,2 @@
 # kurs_devops
-branch hotfixowy
+branch featurowy
